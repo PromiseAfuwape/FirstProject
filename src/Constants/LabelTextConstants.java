@@ -1,5 +1,5 @@
 package Constants;
 
-Internal class LabelTextConstants {
+public class LabelTextConstants {
 
 }

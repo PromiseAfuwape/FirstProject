@@ -1,6 +1,6 @@
 package Constants;
 
 public class CssSelectorConstants {
-public final String Newnwew = "";
-public final String Anothernewnew = "";
+public static final String Newnwew = "";
+public static final String Anothernewnew = "";
 }
